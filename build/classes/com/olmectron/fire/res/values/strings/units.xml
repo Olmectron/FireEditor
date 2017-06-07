@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<unit id="0x00" name="Avatar_M" gender="M">
+    <hair-color-editable/>
+    <appearance-editable/>
+    <name-editable/>
+    <avatar/>
+    <portrait-variable/>
+    <important-unit/>
+</unit>
+<unit id="0x01" name="Avatar_F" gender="F">
+    <hair-color-editable/>
+    <appearance-editable/>
+    <name-editable/>
+    <avatar/>
+    <portrait-variable/>
+    <important-unit/>
+</unit>
+<unit id="0x02" name="Avatar_U" gender="U">
+    <hair-color-editable/>
+    <appearance-editable/>
+    <name-editable/>
+    <dlc-spotpass/>
+    <portrait-variable/>
+</unit>
+<unit id="0x03" name="Chrom" gender="M">
+    <locale lang="en">
+        <name>Chrom</name>
+    </locale>
+    
+    <locale lang="ja">
+        <name>クロム</name>
+    </locale>
+    <important-unit/>
+    
+</unit>
+<unit id="0x04" name="Lissa" gender="F">
+    <locale lang="en">
+        <name>Lissa</name>
+        <death-quote>I-I can't go on... I'm sorry... This war...is over for me... I'm sorry...I couldn't help you...through to the end...</death-quote>
+    </locale>
+    <locale lang="ja">
+        <name>リズ</name>
+    </locale>
+    
+</unit>
+<unit id="0x05" name="Frederick" gender="M">
+    <locale lang="en">
+        <name>Frederick</name>
+    </locale>
+    <locale lang="ja">
+        <name>フレデリク</name>
+    </locale>
+</unit>
+<unit id="0x06" name="Virion" gender="M">
+    <locale lang="en">
+        <name>Virion</name>
+    </locale>
+    <locale lang="ja">
+        <name>ヴィオール</name>
+    </locale>
+</unit>
+<unit id="0x07" name="Sully" gender="F">
+    <locale lang="en">
+        <name>Sully</name>
+    </locale>
+    <locale lang="ja">
+        <name>ソワレ</name>
+    </locale>
+</unit>
+<unit id="0x08" name="Vaike" gender="M">
+    <locale lang="en">
+        <name>Vaike</name>
+    </locale>
+    <locale lang="ja">
+        <name>ヴェイク</name>
+    </locale>
+</unit>
+<unit id="0x09" name="Stahl" gender="M">
+    <locale lang="en">
+        <name>Stahl</name>
+    </locale>
+    <locale lang="ja">
+        <name>ソール</name>
+    </locale>
+</unit>
+<unit id="0x0A" name="Miriel" gender="F">
+    <locale lang="en">
+        <name>Miriel</name>
+    </locale>
+    <locale lang="ja">
+        <name>ミリエル</name>
+    </locale>
+</unit>
+<unit id="0x0B" name="Kellam" gender="M">
+    <locale lang="en">
+        <name>Kellam</name>
+    </locale>
+    <locale lang="ja">
+        <name>カラム</name>
+    </locale>
+</unit>
+<unit id="0x0C" name="Sumia" gender="F">
+    <locale lang="en">
+        <name>Sumia</name>
+    </locale>
+    <locale lang="ja">
+        <name>スミア</name>
+    </locale>
+</unit>
+<unit id="0x0D" name="Lonqu" gender="M">
+    <locale lang="en">
+        <name>Lon'qu</name>
+    </locale>
+    <locale lang="fr">
+        <name>Lon'zu</name>
+    </locale>
+    
+    <locale lang="de">
+        <name>Lon'zu</name>
+    </locale>
+    <locale lang="it">
+        <name>Lon'zu</name>
+    </locale>
+    <locale lang="es">
+        <name>Lon'zu</name>
+    </locale>
+    <locale lang="ja">
+        <name>ロンクー</name>
+    </locale>
+</unit>
+<unit id="0x0E" name="Ricken" gender="M">
+    <locale lang="en">
+        <name>Ricken</name>
+    </locale>
+    <locale lang="ja">
+        <name>リヒト</name>
+    </locale>
+</unit>
+<unit id="0x0F" name="Maribelle" gender="F">
+    <locale lang="en">
+        <name>Maribelle</name>
+    </locale>
+    <locale lang="ja">
+        <name>マリアベル</name>
+    </locale>
+</unit>
+<unit id="0x10" name="Panne" gender="F">
+    <locale lang="en">
+        <name>Panne</name>
+    </locale>
+    <locale lang="fr">
+        <name>Palne</name>
+    </locale>
+    <locale lang="de">
+        <name>Palne</name>
+    </locale>
+    <locale lang="it">
+        <name>Palne</name>
+    </locale>
+    <locale lang="es">
+        <name>Palne</name>
+    </locale>
+    <locale lang="ja">
+        <name>ベルベット</name>
+    </locale>
+</unit>
+<unit id="0x11" name="Gaius" gender="M">
+    <locale lang="en">
+        <name>Gaius</name>
+    </locale>
+    <locale lang="ja">
+        <name>ガイア</name>
+    </locale>
+</unit>
+<unit id="0x12" name="Cordelia" gender="F">
+    <locale lang="en">
+        <name>Cordelia</name>
+    </locale>
+    <locale lang="ja">
+        <name>ティアモ</name>
+    </locale>
+</unit>
+<unit id="0x13" name="Gregor" gender="M">
+    <locale lang="en">
+        <name>Gregor</name>
+    </locale>
+    <locale lang="ja">
+        <name>グレゴ</name>
+    </locale>
+</unit>
+<unit id="0x14" name="Nowi" gender="F">
+    <locale lang="en">
+        <name>Nowi</name>
+    </locale>
+    <locale lang="ja">
+        <name>ノノ</name>
+    </locale>
+</unit>
+<unit id="0x15" name="Libra" gender="M">
+    <locale lang="en">
+        <name>Libra</name>
+    </locale>
+    <locale lang="ja">
+        <name>リベラ</name>
+    </locale>
+</unit>
+<unit id="0x16" name="Tharja" gender="F">
+    <locale lang="en">
+        <name>Tharja</name>
+    </locale>
+    <locale lang="ja">
+        <name>サーリャ</name>
+    </locale>
+</unit>
+<unit id="0x17" name="Olivia" gender="F">
+    <locale lang="en">
+        <name>Olivia</name>
+    </locale>
+    <locale lang="ja">
+        <name>オリヴィエ</name>
+    </locale>
+</unit>
+<unit id="0x18" name="Cherche" gender="F">
+    <locale lang="en">
+        <name>Cherche</name>
+    </locale>
+    <locale lang="fr">
+        <name>Zelcher</name>
+    </locale>
+    <locale lang="de">
+        <name>Zelcher</name>
+    </locale>
+    <locale lang="it">
+        <name>Zelcher</name>
+    </locale>
+    <locale lang="es">
+        <name>Zelcher</name>
+    </locale>
+    <locale lang="ja">
+        <name>セルジュ</name>
+    </locale>
+</unit>
+
+<unit id="0x19" name="Henry" gender="M">
+    <locale lang="en">
+        <name>Henry</name>
+    </locale>
+    <locale lang="ja">
+        <name>ヘンリー</name>
+    </locale>
+</unit>
+<unit id="0x1A" name="Lucina" gender="F">
+    <locale lang="en">
+        <name>Lucina</name>
+    </locale>
+    <locale lang="ja">
+        <name>ルキナ</name>
+    </locale>
+    <child/>
+
+</unit>
+<unit id="0x1B" name="Sayri" gender="F">
+    <locale lang="en">
+        <name>Say'ri</name>
+    </locale>
+    <locale lang="ja">
+        <name>サイリ</name>
+    </locale>
+    
+    
+</unit>
+<unit id="0x1C" name="Basilio" gender="M">
+    <locale lang="en">
+        <name>Basilio</name>
+    </locale>
+    <locale lang="ja">
+        <name>バジーリオ</name>
+    </locale>
+    
+    
+</unit>
+<unit id="0x1D" name="Flavia" gender="F">
+    <locale lang="en">
+        <name>Flavia</name>
+    </locale>
+    <locale lang="ja">
+        <name>フラヴィア</name>
+    </locale>
+    
+    
+</unit>
+<unit id="0x1E" name="Donnel" gender="M">
+    <locale lang="en">
+        <name>Donnel</name>
+    </locale>
+    <locale lang="ja">
+        <name>ドニ</name>
+    </locale>
+    
+    
+</unit>
+<unit id="0x1F" name="Anna" gender="F">
+    <locale lang="en">
+        <name>Anna</name>
+    </locale>
+    <locale lang="ja">
+        <name>アンナ</name>
+    </locale>
+    
+    
+</unit>
+<unit id="0x20" name="Owain" gender="M">
+    <locale lang="en">
+        <name>Owain</name>
+    </locale>
+    <locale lang="ja">
+        <name>ウード</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x21" name="Inigo" gender="M">
+    <locale lang="en">
+        <name>Inigo</name>
+    </locale>
+    <locale lang="fr">
+        <name>Íñigo</name>
+    </locale>
+    <locale lang="de">
+        <name>Íñigo</name>
+    </locale>
+    <locale lang="it">
+        <name>Íñigo</name>
+    </locale>
+    <locale lang="es">
+        <name>Íñigo</name>
+    </locale>
+    <locale lang="ja">
+        <name>アズール</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x22" name="Brady" gender="M">
+    <locale lang="en">
+        <name>Brady</name>
+    </locale>
+    <locale lang="ja">
+        <name>ブレディ</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x23" name="Kjelle" gender="F">
+    <locale lang="en">
+        <name>Kjelle</name>
+    </locale>
+    <locale lang="ja">
+        <name>デジェル</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    <portrait-variable/>
+
+</unit>
+<unit id="0x24" name="Cynthia" gender="F">
+    <locale lang="en">
+        <name>Cynthia</name>
+    </locale>
+    <locale lang="ja">
+        <name>シンシア</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x25" name="Severa" gender="F">
+    <locale lang="en">
+        <name>Severa</name>
+    </locale>
+    <locale lang="ja">
+        <name>セレナ</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x26" name="Gerome" gender="M">
+    <locale lang="en">
+        <name>Gerome</name>
+    </locale>
+    <locale lang="ja">
+        <name>ジェローム</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x27" name="Morgan_M" gender="M">
+    <locale lang="en">
+        <name>Morgan</name>
+    </locale>
+    <locale lang="es">
+        <name>Linfan</name>
+    </locale>
+    <locale lang="fr">
+        <name>Linfan</name>
+    </locale>
+    <locale lang="de">
+        <name>Linfan</name>
+    </locale>
+    <locale lang="it">
+        <name>Linfan</name>
+    </locale>
+    
+    <locale lang="ja">
+        <name>マーク</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x28" name="Morgan_F" gender="F">
+    <locale lang="en">
+        <name>Morgan</name>
+    </locale>
+    <locale lang="es">
+        <name>Linfan</name>
+    </locale>
+    <locale lang="fr">
+        <name>Linfan</name>
+    </locale>
+    <locale lang="de">
+        <name>Linfan</name>
+    </locale>
+    <locale lang="it">
+        <name>Linfan</name>
+    </locale>
+    <locale lang="ja">
+        <name>マーク</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x29" name="Yarne" gender="M">
+    <locale lang="en">
+        <name>Yarne</name>
+    </locale>
+    <locale lang="ja">
+        <name>シャンブレー</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x2A" name="Laurent" gender="M">
+    <locale lang="en">
+        <name>Laurent</name>
+    </locale>
+    <locale lang="ja">
+        <name>ロラン</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x2B" name="Noire" gender="F">
+    <locale lang="en">
+        <name>Noire</name>
+    </locale>
+    <locale lang="ja">
+        <name>ノワール</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    
+    <portrait-variable/>
+</unit>
+<unit id="0x2C" name="Nah" gender="F">
+    <locale lang="en">
+        <name>Nah</name>
+    </locale>
+    <locale lang="ja">
+        <name>ンン</name>
+    </locale>
+    <child/>
+    <hair-color-editable/>
+    <portrait-variable/>
+
+</unit>
+<unit id="0x2D" name="Tiki" gender="F">
+    <locale lang="en">
+        <name>Tiki</name>
+    </locale>
+    <locale lang="ja">
+        <name>チキ</name>
+    </locale>
+</unit>
+<unit id="0x2E" name="Gangrel" gender="M">
+    <locale lang="en">
+        <name>Gangrel</name>
+    </locale>
+    <locale lang="ja">
+        <name>ギャンレル</name>
+    </locale>
+</unit>
+<unit id="0x2F" name="Walhart" gender="M">
+    <locale lang="en">
+        <name>Walhart</name>
+    </locale>
+    <locale lang="ja">
+        <name>ヴァルハルト</name>
+    </locale>
+</unit>
+<unit id="0x30" name="Emmeryn" gender="F">
+    <locale lang="en">
+        <name>Emmeryn</name>
+    </locale>
+    <locale lang="ja">
+        <name>エメリナ</name>
+    </locale>
+</unit>
+<unit id="0x31" name="Yenfay" gender="M">
+    <locale lang="en">
+        <name>Yen'fay</name>
+    </locale>
+    <locale lang="ja">
+        <name>レンハ</name>
+    </locale>
+</unit>
+<unit id="0x32" name="Aversa" gender="F">
+    <locale lang="en">
+        <name>Aversa</name>
+    </locale>
+    <locale lang="ja">
+        <name>インバース</name>
+    </locale>
+</unit>
+<unit id="0x33" name="Priam" gender="M">
+    <locale lang="en">
+        <name>Priam</name>
+    </locale>
+    <locale lang="ja">
+        <name>パリス</name>
+    </locale>
+</unit>
+<unit id="0x34" name="Marth" gender="M">
+    <locale lang="en">
+        <name>Marth</name>
+    </locale>
+    <locale lang="ja">
+        <name>マルス</name>
+    </locale>
+    <name-editable/>
+    
+    <dlc-spotpass/>
+    <portrait-variable/>
+</unit>
+<unit id="0x35" name="Dummy" gender="U">
+    <locale lang="en">
+        <name>Dummy</name>
+    </locale>
+    <locale lang="ja">
+        <name>？？？</name>
+    </locale>
+</unit>
+<unit id="0x36" name="Risen" gender="U">
+    <locale lang="en">
+        <name>Risen</name>
+    </locale>
+    <locale lang="fr">
+        <name>Ombre</name>
+    </locale>
+    <locale lang="de">
+        <name>Untoter</name>
+    </locale>
+    <locale lang="it">
+        <name>Risorto</name>
+    </locale>
+    <locale lang="es">
+        <name>Resurrecto</name>
+    </locale>
+    <locale lang="ja">
+        <name>屍兵</name>
+    </locale>
+</unit>
+<unit id="0x37" name="Risen_Chief" gender="U">
+    <locale lang="en">
+        <name>Risen Chief</name>
+    </locale>
+    
+    <locale lang="fr">
+        <name>Chef Ombre</name>
+    </locale>
+    <locale lang="de">
+        <name>Untoter Anf.</name>
+    </locale>
+    <locale lang="it">
+        <name>Arcirisorto</name>
+    </locale>
+    <locale lang="es">
+        <name>Jefe resurr.</name>
+    </locale>
+    <locale lang="ja">
+        <name>屍兵将</name>
+    </locale>
+</unit>
+<unit id="0x38" name="Merchant" gender="F">
+    <locale lang="en">
+        <name>Merchant</name>
+    </locale>
+    
+    <locale lang="fr">
+        <name>Marchand</name>
+    </locale>
+    <locale lang="de">
+        <name>Händler</name>
+    </locale>
+    <locale lang="it">
+        <name>Mercante</name>
+    </locale>
+    <locale lang="es">
+        <name>Mercader</name>
+    </locale>
+    <locale lang="ja">
+        <name>商人</name>
+    </locale>
+</unit>
+</resources>

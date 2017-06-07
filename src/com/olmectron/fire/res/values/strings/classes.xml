@@ -1,0 +1,82 @@
+0x00,Lord,M,false
+0x01,Lord,F,false
+0x02,Great Lord,M,false
+0x03,Great Lord,F,false
+0x04,Tactician,M,false
+0x05,Tactician,F,false
+0x06,Grandmaster,M,false
+0x07,Grandmaster,F,false
+0x08,Cavalier,M,false
+0x09,Cavalier,F,false
+0x0A,Knight,M,false
+0x0B,Knight,F,false
+0x0C,Paladin,M,false
+0x0D,Paladin,F,false
+0x0E,Great Knight,M,false
+0x0F,Great Knight,F,false
+0x10,General,M,false
+0x11,General,F,false
+0x12,Barbarian,M,true
+0x13,Fighter,M,true
+0x14,Mercenary,M,false
+0x15,Mercenary,F,false
+0x16,Archer,M,false
+0x17,Archer,F,false
+0x18,Berserker,M,true
+0x19,Warrior,M,true
+0x1A,Hero,M,false
+0x1B,Hero,F,false
+0x1C,Bow Knight,M,false
+0x1D,Bow Knight,F,false
+0x1E,Sniper,M,false
+0x1F,Sniper,F,false
+0x20,Myrmidon,M,false
+0x21,Myrmidon,F,false
+0x22,Thief,M,false
+0x23,Thief,F,false
+0x24,Swordmaster,M,false
+0x25,Swordmaster,F,false
+0x26,Assassin,M,false
+0x27,Assassin,F,false
+0x28,Trickster,M,false
+0x29,Trickster,F,false
+0x2A,Pegasus Knight,F,true
+0x2B,Falcon Knight,F,true
+0x2C,Dark Flier,F,true
+0x2D,Wyvern Rider,M,false
+0x2E,Wyvern Rider,F,false
+0x2F,Wyvern Lord,M,false
+0x30,Wyvern Lord,F,false
+0x31,Griffon Rider,M,false
+0x32,Griffon Rider,F,false
+0x33,Troubadour,F,true
+0x34,Priest,M,true
+0x35,Cleric,F,true
+0x36,Mage,M,false
+0x37,Mage,F,false
+0x38,Dark Mage,M,false
+0x39,Dark Mage,F,false
+0x3A,Valkyrie,F,true
+0x3B,War Monk,M,true
+0x3C,War Cleric,F,true
+0x3D,Sage,M,false
+0x3E,Sage,F,false
+0x3F,Dark Knight,M,false
+0x40,Dark Knight,F,false
+0x41,Sorcerer,M,false
+0x42,Sorcerer,F,false
+0x43,Dancer,F,true
+0x44,Manakete,F,true
+0x45,Taguel,M,false
+0x46,Taguel,F,false
+0x47,Soldier,M,true
+0x48,Villager,M,true
+0x49,Merchant,F,true
+0x4A,Revenant,E,true
+0x4B,Entombed,E,true
+0x4C,Conqueror,M,true
+0x4D,Lodestar,M,true
+0x4E,Grima,E,true
+0x4F,Mirage,E,true
+0x50,Dread Fighter,M,true
+0x51,Bride,F,true

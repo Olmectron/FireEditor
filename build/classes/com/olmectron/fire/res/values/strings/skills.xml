@@ -1,0 +1,103 @@
+0x00&&None&&No skill equipped
+0x01&&HP +5&&Grants Max HP+5.
+0x02&&Strength +2&&Grants Strength +2.
+0x03&&Magic +2&&Grants Mag +2.
+0x04&&Skill +2&&Grants Skill +2.
+0x05&&Speed +2&&Grants Spd +2.
+0x06&&Defense +2&&Grants Def +2.
+0x07&&Resistance +2&&Grants Res +2.
+0x08&&Hit rate +10&&Grants Hit +10.
+0x09&&Hit rate +20&&Grants Hit +20.
+0x0A&&Avoid +10&&Grants Avo +10.
+0x0B&&Movement +1&&Grants Mov +1.
+0x0C&&Locktouch&&Allow the unit to open doros and chests without keys.
+0x0D&&Veteran&&Grants the unit 50% more EXP while paired with another unit.
+0x0E&&Aptitude&&Adds 20% to each stat's odds of incresing at level up.
+0x0F&&Discipline&&Doubles the amount of weapon experience the unit receives.
+0x10&&Armsthrift&&Arrack without expending a weapon use. Trigger %=(Lck stat x 2)
+0x11&&Dual Support+&&Increases Dual Support bonuses.
+0x12&&Dual Strike+&&Increases the trigger rate of Dual Strikes by 10%.
+0x13&&Dual Guard+&&Increases the trigger rate of Dual Guards by 10%.
+0x14&&Rightful King&&Increases the trigger rate of the unit's skills by 10%.
+0x15&&Odd Rhythm&&Grants Hit/Avo +10 during odd-numbered turns.
+0x16&&Even Rhythm&&Grants Hit/Avo +10 during even-numbered turns.
+0x17&&Quick Burn&&Grants Hit/Avo +15 at the start of battle. Stats gradually revert.
+0x18&&Slow Burn&&Increases Hit/Avo by 1 each turn. Effects end after 15 turns.
+0x19&&Lucky Seven&&Grants Hit/Avo +20 for the first seven turns.
+0x1A&&Gamble&&Reduces Hit by 5, but grants Crit +10. 
+0x1B&&Outdoor Fighter&&Grants Hit/Avo +10 while fighting outdoors.
+0x1C&&Indoor Fighter&&Grants Hit/Avo +10 while fighting indoors.
+0x1D&&Tantivy&&Grants Hit/Avo +10 when there are no allies within three spaces.
+0x1E&&Focus&&Grants Crit +10 when there are no allies within three spaces.
+0x1F&&Zeal&&Grants Crit +5.
+0x20&&Wrath&&Grants Crit +20 when HP is half or less.
+0x21&&Prescience&&Grants Hit/Avo +15 when the unit initiates an attack.
+0x22&&Patience&&Grants Hit/Avo +15 when the unit is under attack.
+0x23&&Underdog&&Hit/Avo +15 if a foe's level is higher. (For adv. classes add +20 to level.)
+0x24&&Charm&&Grants Hit/Avo +5 to all allies within three spaces.
+0x25&&Solidarity&&Grants Crit/Ddg +10 to all adjacent allies.
+0x26&&Demoiselle&&Grants Avo/Ddg +10 to all male allies within three spaces.
+0x27&&Hex&&Reduces Avo by 15 for all adjacent enemies.
+0x28&&Anathema&&Reduces Avo/Ddg by 10 for all enemies within three spaces.
+0x29&&Healtouch&&Adds 5 HP to the amount recovered when healing allies with a staff.
+0x2A&&Relief&&Restores 20% HP each turn if no units are within three spaces.
+0x2B&&Renewal&&Restores 30% HP at the start of each turn.
+0x2C&&Deliverer&&Grants Mov +2 while paired with another unit.
+0x2D&&Defender&&Grants +1 to all stats while paired with another unit.
+0x2E&&Acrobat&&Treats all accessible terrain as if it were a plain, movement-wise.
+0x2F&&Pass&&Allows the unit to pass through spaces occupied by enemies.
+0x30&&Swordfaire&&Grants Str +5 if using a sword. (Mag +5 if using a Leving Sword)
+0x31&&Lancefaire&&Grants Str +5 if using a lance. (Mag +5 if using a Shockstick)
+0x32&&Axefaire&&Grants Str +5 if using an axe. (Mag +5 if using a Bolt Axe)
+0x33&&Bowfaire&&Grants Str +5 if using a bow.
+0x34&&Tomefaire&&Grants Mag +5 if using a tome.
+0x35&&Luck +4&&Grants Lck +4.
+0x36&&Special Dance&&Allies that act again receive Str/Mag/Def/Res +2 that turn.
+0x37&&Rally Strength&&Use "Rally" to grant Str +4 to units within three spaces for one turn.
+0x38&&Rally Magic&&Use "Rally" to grant Mag +4 to units within three spaces for one turn.
+0x39&&Rally Skill&&Use "Rally" to grant Skill +4 to units within three spaces for one turn.
+0x3A&&Rally Speed&&Use "Rally" to grant Spd +4 to units within three spaces for one turn.
+0x3B&&Rally Luck&&Use "Rally" to grant Lck +8 to units within three spaces for one turn.
+0x3C&&Rally Defense&&Use "Rally" to grant Def +4 to units within three spaces for one turn.
+0x3D&&Rally Resistance&&Use "Rally" to grant Res +4 to units within three spaces for one turn.
+0x3E&&Rally Movement&&Use "Rally" to grant Mov +1 to units within three spaces for one turn.
+0x3F&&Rally Spectrum&&Use "Rally" to grant +4 to all stats to units within three spaces for one turn.
+0x40&&Swordbreaker&&Grants Hit/Avo +50 if the enemy is using a sword.
+0x41&&Lancebreaker&&Grants Hit/Avo +50 if the enemy is using a lance.
+0x42&&Axebreaker&&Grants Hit/Avo +50 if the enemy is using an axe.
+0x43&&Bowbreaker&&Grants Hit/Avo +50 if the enemy is using a bow.
+0x44&&Tomebreaker&&Grants Hit/Avo +50 if the enemy is using a tome.
+0x45&&Wyrmsbane&&Allows units in manakete form to deal bonus damage to dragons. 
+0x46&&Beastbane&&Allows units in taguel form to deal bonus damage to beasts/riders.
+0x47&&Lethality&&Fell an enemy in one hit. Trigger % = (Skill stat ÷ 4)
+0x48&&Aether&&Use Sol and Luna in succession. Trigger % = (Skill stat ÷ 2)
+0x49&&Astra&&Strike five times at half damage. Trigger % = (Skill stat ÷ 2)
+0x4A&&Sol&&Absorb HP equal to half damage dealt. Trigger % = (Skill stat)
+0x4B&&Luna&&Halve enemy Def/Res when attacking. Trigger % = (Skill stat)
+0x4C&&Ignis&&Add half Mag or Str to the other value. Trigger % = (Skill stat)
+0x4D&&Vengeance&&Add half accrued damage to attacks. Trigger % = (Skill stat x 2) 
+0x4E&&Vantage&&If HP is half or less, always strike first, even when attacked.
+0x4F&&Pavise&&Halve sword/lance/axe/beaststone/blight damage. Trigger % = (Skill stat)
+0x50&&Aegis&&Halve bow/tome/dragonstone damage. Trigger % = (Skill stat)
+0x51&&Counter&&Damage taken from an adjacent emeny is dealt back to that foe.
+0x52&&Miracle&&Survive lethal attacks if HP > 1. Trigger % = (Lck stat)
+0x53&&Despoil&&Get a Bullion (S) if the unit's target falls. Trigger % = (Lck stat)
+0x54&&Galeforce&&Allows the unit to act again upon defeating a foe. (Once per turn.)
+0x55&&Lifetaker&&When attacking- restores 50% HP if the enemy is defeated.
+0x56&&Conquest&&Protects from bonus damage against beasts/riders/armor.
+0x57&&Shadowgift&&Allows non-dark mages to use dark magic.
+0x58&&All Stats +2&&Grants +2 to all stats.
+0x59&&Paragon&&Doubles the amount of EXP the unit receives.
+0x5A&&Iote's Shield&&Protects from bonus damage against fliers.
+0x5B&&Limit Breaker&&Extends all stat caps by 10.
+0x5C&&Dragonskin&&Nullifies Lethality and Counter- and more than halves damage.
+0x5D&&Rightful God&&Increases the trigger rate of the unit's skills by 30%.
+0x5E&&Hawkeye&&Ensures every attack hits.
+0x5F&&Luna+&&Halve enemy Def/Res when attacking. Effects do not stack.
+0x60&&Vantage+&&Always strikes first, even when attacked.
+0x61&&Pavise+&&Always halve sword/lance/axe/beaststone damage.
+0x62&&Aegis+&&Always halve bow/tome/dragonstone damage.
+0x63&&Resistance +10&&Grants Res +10.
+0x64&&Aggressor&&Grants Atk +10 when the unit initiates an attack. 
+0x65&&Rally Heart&&Use "Rally" to grant +2 all stats/Mov +1 to units within three spaces for one turn.
+0x66&&Bond&&Restores 10 HP to allies within three spaces at the start of each turn.

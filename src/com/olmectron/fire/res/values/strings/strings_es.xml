@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Fire Editor</string>
+    <string name="units">Unidades</string>
+    <string name="inventory">Inventario</string>
+    <string name="experimental">Experimental</string>
+    <string name="save_file">Guardar archivo</string>
+    
+    <string name="select_all">Seleccionar todos</string>
+    <string name="close_file">Cerrar archivo</string>
+    <string name="open_file">Abrir archivo</string>
+    <string name="open_options">Abre un archivo o arrastra y suelta uno</string>
+    <string name="invalid_file">El archivo selccionado no es un archivo Chapter válido</string>
+    <string name="drop_only_one">Arrastra y suelta un sólo archivo a la vez</string>
+    <string name="load_file_success">Archivo Chapter cargado correctamente</string>
+    
+  <string name="export_decompressed_file">Exportar archivo descomprimido</string>
+  <string name="decompressed_file_exported">El archivo descomprimido fue exportado con éxito</string>
+  <string name="loading">Cargando</string>
+  <string name="game_language">Idioma del juego</string>
+  <string name="gui_language">Idioma de la interfaz</string>
+  
+  <string name="save_compressed_file">Exportar comprimido</string>
+  <string name="save_decompressed_file">Exportar descomprimido</string>
+  <string name="overwrite_file">Guardar</string>
+  <string name="overwrite_success">¡Archivo guardado con éxito!</string>
+  <string name="fallen">Caídas</string>
+  <string name="alive">Vivas</string>
+  <string name="name">Nombre</string>
+    <string name="main_stats">Stats principales</string>
+      <string name="other_stats">Otros stats</string>
+      
+      <string name="settings">Configuración</string>
+      <string name="appearance">Apariencia</string>
+      <string name="kill_unit">Matar unidad</string>
+      <string name="revive_unit">Revivir unidad</string>
+      
+      <string name="are_you_sure">¿Estás seguro?</string>
+      <string name="killing_message">Matarás a una unidad importante. Tu juego podría no cargar correctamente si guardas este cambio. ¿Sabes bien lo que estás haciendo?</string>
+      <string name="do_it">¡Hazlo!</string>
+      <string name="wait">¡Espera!</string>
+      
+      
+      <string name="should_restart">Reinicia la aplicación</string>
+      <string name="restart_message">Debes reiniciar para que se apliquen los cambios de idioma.</string>
+      <string name="ok">Aceptar</string>
+</resources>
+

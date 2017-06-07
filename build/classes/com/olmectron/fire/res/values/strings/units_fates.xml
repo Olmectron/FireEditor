@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<unit id="0x01" name="Avatar_M" gender="M">
+    <hair-color-editable/>
+    <appearance-editable/>
+    <name-editable/>
+    <avatar/>
+    <portrait-variable/>
+</unit>
+<unit id="0x02" name="Avatar_F" gender="F">
+    <hair-color-editable/>
+    <appearance-editable/>
+    <name-editable/>
+    <avatar/>
+    <portrait-variable/>
+</unit>
+<unit id="0x03" name="Gunter" gender="M">
+    <locale lang="en">
+        <name>Gunter</name>
+    </locale>
+</unit>
+<unit id="0x04" name="Felicia" gender="F">
+    <locale lang="en">
+        <name>Felicia</name>
+    </locale>
+    
+    
+</unit>
+<unit id="0x05" name="Jakob" gender="M">
+    <locale lang="en">
+        <name>Jakob</name>
+    </locale>
+    
+</unit>
+<unit id="0x06" name="Rinka" gender="F">
+    <locale lang="en">
+        <name>Rinka</name>
+    </locale>
+</unit>
+<unit id="0x07" name="Kaze" gender="M">
+    <locale lang="en">
+        <name>Kaze</name>
+    </locale>
+</unit>
+<unit id="0x08" name="Sakura" gender="F">
+    <locale lang="en">
+        <name>Sakura</name>
+    </locale>
+</unit>
+<unit id="0x09" name="Azura" gender="F">
+    <locale lang="en">
+        <name>Azura</name>
+    </locale>
+</unit>
+<unit id="0x0A" name="Hana" gender="F">
+    <locale lang="en">
+        <name>Hana</name>
+    </locale>
+</unit>
+<unit id="0x0B" name="Subaki" gender="M">
+    <locale lang="en">
+        <name>Subaki</name>
+    </locale>
+</unit>
+<unit id="0x0C" name="Silas" gender="M">
+    <locale lang="en">
+        <name>Silas</name>
+    </locale>
+</unit>
+<unit id="0x0D" name="Saizo" gender="M">
+    <locale lang="en">
+        <name>Saizo</name>
+    </locale>
+</unit>
+<unit id="0x0E" name="Orochi" gender="F">
+    <locale lang="en">
+        <name>Orochi</name>
+    </locale>
+</unit>
+<unit id="0x0F" name="Hinoka" gender="F">
+    <locale lang="en">
+        <name>Hinoka</name>
+    </locale>
+</unit>
+<unit id="0x10" name="Asama" gender="M">
+    <locale lang="en">
+        <name>Asama</name>
+    </locale>
+</unit>
+<unit id="0x11" name="Setsuna" gender="F">
+    <locale lang="en">
+        <name>Setsuna</name>
+    </locale>
+</unit>
+<unit id="0x12" name="Hayato" gender="M">
+    <locale lang="en">
+        <name>Hayato</name>
+    </locale>
+</unit>
+<unit id="0x13" name="Oboro" gender="F">
+    <locale lang="en">
+        <name>Oboro</name>
+    </locale>
+</unit>
+<unit id="0x14" name="Hinata" gender="M">
+    <locale lang="en">
+        <name>Hinata</name>
+    </locale>
+</unit>
+<unit id="0x15" name="Takumi" gender="M">
+    <locale lang="en">
+        <name>Takumi</name>
+    </locale>
+</unit>
+<unit id="0x16" name="Kagerou" gender="F">
+    <locale lang="en">
+        <name>Kagerou</name>
+    </locale>
+</unit>
+<unit id="0x17" name="Reina" gender="F">
+    <locale lang="en">
+        <name>Reina</name>
+    </locale>
+</unit>
+<unit id="0x18" name="Kaden" gender="M">
+    <locale lang="en">
+        <name>Kaden</name>
+    </locale>
+</unit>
+
+<unit id="0x19" name="Ryoma" gender="M">
+    <locale lang="en">
+        <name>Ryoma</name>
+    </locale>
+</unit>
+<unit id="0x1A" name="Scarlet" gender="F">
+    <locale lang="en">
+        <name>Scarlet</name>
+    </locale>
+    
+</unit>
+<unit id="0x1B" name="Shura" gender="M">
+    <locale lang="en">
+        <name>Shura</name>
+    </locale>
+    
+    
+</unit>
+<unit id="0x1C" name="Elise" gender="F">
+    <locale lang="en">
+        <name>Elise</name>
+    </locale>
+    
+    
+</unit>
+<unit id="0x1D" name="Arthur" gender="M">
+    <locale lang="en">
+        <name>Arthur</name>
+    </locale>
+    
+</unit>
+<unit id="0x1E" name="Effie" gender="F">
+    <locale lang="en">
+        <name>Effie</name>
+    </locale>
+    
+    
+</unit>
+<unit id="0x1F" name="Odin" gender="M">
+    <locale lang="en">
+        <name>Odin</name>
+    </locale>
+    
+</unit>
+<unit id="0x20" name="Niles" gender="M">
+    <locale lang="en">
+        <name>Niles</name>
+    </locale>
+</unit>
+<unit id="0x21" name="Nyx" gender="F">
+    <locale lang="en">
+        <name>Nyx</name>
+    </locale>
+</unit>
+<unit id="0x22" name="Camilla" gender="F">
+    <locale lang="en">
+        <name>Camilla</name>
+    </locale>
+</unit>
+<unit id="0x23" name="Selena" gender="F">
+    <locale lang="en">
+        <name>Selena</name>
+    </locale>
+</unit>
+<unit id="0x24" name="Beruka" gender="F">
+    <locale lang="en">
+        <name>Beruka</name>
+    </locale>
+</unit>
+<unit id="0x25" name="Lazlow" gender="M">
+    <locale lang="en">
+        <name>Lazlow</name>
+    </locale>
+</unit>
+<unit id="0x26" name="Peri" gender="F">
+    <locale lang="en">
+        <name>Peri</name>
+    </locale>
+</unit>
+<unit id="0x27" name="Benny" gender="M">
+    <locale lang="en">
+        <name>Benny</name>
+    </locale>
+</unit>
+<unit id="0x28" name="Charlotte" gender="F">
+    <locale lang="en">
+        <name>Charlotte</name>
+    </locale>
+</unit>
+<unit id="0x29" name="Leo" gender="M">
+    <locale lang="en">
+        <name>Leo</name>
+    </locale>
+</unit>
+<unit id="0x2A" name="Keaton" gender="M">
+    <locale lang="en">
+        <name>Keaton</name>
+    </locale>
+</unit>
+<unit id="0x2B" name="Xander" gender="M">
+    <locale lang="en">
+        <name>Xander</name>
+    </locale>
+
+</unit>
+<unit id="0x2C" name="Izana" gender="M">
+    <locale lang="en">
+        <name>Izana</name>
+    </locale>
+</unit>
+<unit id="0x2D" name="Fuga" gender="M">
+    <locale lang="en">
+        <name>Fuga</name>
+    </locale>
+</unit>
+
+<unit id="0x2E" name="Yukimura" gender="M">
+    <locale lang="en">
+        <name>Yukimura</name>
+    </locale>
+</unit>
+<unit id="0x2F" name="Flora" gender="F">
+    <locale lang="en">
+        <name>Flora</name>
+    </locale>
+</unit>
+<unit id="0x30" name="Mozu" gender="F">
+    <locale lang="en">
+        <name>Mozu</name>
+    </locale>
+</unit>
+<unit id="0x31" name="Kana_M" gender="M">
+    <locale lang="en">
+        <name>Kana</name>
+    </locale>
+</unit>
+<unit id="0x32" name="Kana_F" gender="F">
+    <locale lang="en">
+        <name>Kana</name>
+    </locale>
+</unit>
+<unit id="0x33" name="Shigure" gender="M">
+    <locale lang="en">
+        <name>Shigure</name>
+    </locale>
+</unit>
+<unit id="0x34" name="Dwyer" gender="M">
+    <locale lang="en">
+        <name>Dwyer</name>
+    </locale>
+</unit>
+<unit id="0x35" name="Sophie" gender="F">
+    <locale lang="en">
+        <name>Sophie</name>
+    </locale>
+</unit>
+<unit id="0x36" name="Midori" gender="F">
+    <locale lang="en">
+        <name>Midori</name>
+    </locale>
+</unit>
+<unit id="0x37" name="Shiro" gender="M">
+    <locale lang="en">
+        <name>Shiro</name>
+    </locale>
+    
+</unit>
+<unit id="0x38" name="Kiragi" gender="M">
+    <locale lang="en">
+        <name>Kiragi</name>
+    </locale>
+    
+</unit>
+<unit id="0x39" name="Asugi" gender="M">
+    <locale lang="en">
+        <name>Asugi</name>
+    </locale>
+    
+</unit>
+<unit id="0x3A" name="Selkie" gender="F">
+    <locale lang="en">
+        <name>Selkie</name>
+    </locale>
+    
+</unit>
+
+<unit id="0x3B" name="Hisame" gender="M">
+    <locale lang="en">
+        <name>Hisame</name>
+    </locale>
+    
+</unit>
+
+<unit id="0x3C" name="Mitama" gender="F">
+    <locale lang="en">
+        <name>Mitama</name>
+    </locale>
+    
+</unit>
+
+<unit id="0x3D" name="Caeldori" gender="F">
+    <locale lang="en">
+        <name>Caeldori</name>
+    </locale>
+    
+</unit>
+
+<unit id="0x3E" name="Rhajat" gender="F">
+    <locale lang="en">
+        <name>Rhajat</name>
+    </locale>
+    
+</unit>
+
+<unit id="0x3F" name="Siegbert" gender="M">
+    <locale lang="en">
+        <name>Siegbert</name>
+    </locale>
+    
+    
+</unit>
+
+<unit id="0x40" name="Forrest" gender="M">
+    <locale lang="en">
+        <name>Forrest</name>
+    </locale>
+    
+</unit>
+<unit id="0x41" name="Ignatius" gender="M">
+    <locale lang="en">
+        <name>Ignatius</name>
+    </locale>
+    
+</unit>
+<unit id="0x42" name="Velouria" gender="F">
+    <locale lang="en">
+        <name>Velouria</name>
+    </locale>
+    
+</unit>
+<unit id="0x43" name="Percy" gender="M">
+    <locale lang="en">
+        <name>Percy</name>
+    </locale>
+    
+</unit>
+<unit id="0x44" name="Ophelia" gender="F">
+    <locale lang="en">
+        <name>Ophelia</name>
+    </locale>
+    
+</unit>
+<unit id="0x45" name="Soleil" gender="F">
+    <locale lang="en">
+        <name>Soleil</name>
+    </locale>
+    
+</unit>
+<unit id="0x46" name="Nina" gender="F">
+    <locale lang="en">
+        <name>Nina</name>
+    </locale>
+    
+</unit>
+<unit id="0x47" name="Anna" gender="F">
+    <locale lang="en">
+        <name>Anna</name>
+    </locale>
+    
+</unit>
+<unit id="0xFA" name="Marth" gender="M">
+    <locale lang="en">
+        <name>Marth</name>
+    </locale>
+    
+</unit>
+
+<unit id="0xFB" name="Ike" gender="M">
+    <locale lang="en">
+        <name>Ike</name>
+    </locale>
+    
+</unit>
+
+<unit id="0xFC" name="Lucina" gender="F">
+    <locale lang="en">
+        <name>Lucina</name>
+    </locale>
+    
+</unit>
+
+<unit id="0xFD" name="Robin" gender="M">
+    <locale lang="en">
+        <name>Robin</name>
+    </locale>
+    
+</unit>
+</resources>
